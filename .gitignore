@@ -1,0 +1,13 @@
+*.tmp
+*~
+.DS_Store
+.md2docx.manifest
+__pycache__/
+*.pyc
+tools/mermaid-cli/
+tools/pandoc-diagram-tmp/
+docx-build/
+build/
+docx-build.tar.gz
+docx.tar.gz
+tools/mermaid_fit_report.md

@@ -1,0 +1,72 @@
+{
+ "theme": "base",
+ "themeVariables": {
+  "fontSize": "17px",
+  "fontFamily": "Noto Sans CJK SC, PingFang SC, Microsoft YaHei, sans-serif",
+  "background": "#ffffff",
+  "primaryColor": "#ffffff",
+  "primaryTextColor": "#000000",
+  "primaryBorderColor": "#000000",
+  "lineColor": "#000000",
+  "secondaryColor": "#ffffff",
+  "tertiaryColor": "#ffffff",
+  "mainBkg": "#ffffff",
+  "nodeBorder": "#000000",
+  "clusterBkg": "#ffffff",
+  "clusterBorder": "#000000",
+  "edgeLabelBackground": "#ffffff",
+  "stateBorder": "#000000",
+  "labelBoxBkgColor": "#ffffff",
+  "labelBoxBorderColor": "#000000",
+  "labelTextColor": "#000000",
+  "altBackground": "#ffffff",
+  "noteBkgColor": "#ffffff",
+  "noteBorderColor": "#000000"
+ },
+ "layout": "elk",
+ "flowchart": {
+  "nodeSpacing": 30,
+  "rankSpacing": 40,
+  "diagramPadding": 8,
+  "useMaxWidth": false,
+  "htmlLabels": false
+ },
+ "state": {
+  "useMaxWidth": false,
+  "htmlLabels": false
+ },
+ "htmlLabels": false,
+ "sequence": {
+  "actorMargin": 36,
+  "messageMargin": 22,
+  "noteMargin": 8,
+  "boxMargin": 6,
+  "diagramMarginX": 18,
+  "diagramMarginY": 10,
+  "mirrorActors": false,
+  "useMaxWidth": false
+ },
+ "er": {
+  "useMaxWidth": false
+ },
+ "class": {
+  "useMaxWidth": false,
+  "htmlLabels": false
+ },
+ "gantt": {
+  "useMaxWidth": false
+ },
+ "pie": {
+  "useMaxWidth": false
+ },
+ "journey": {
+  "useMaxWidth": false
+ },
+ "requirement": {
+  "useMaxWidth": false,
+  "htmlLabels": false
+ },
+ "c4": {
+  "useMaxWidth": false
+ }
+}
