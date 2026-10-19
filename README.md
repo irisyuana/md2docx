@@ -123,4 +123,4 @@ python3 reference/deep-clean-reference.py reference/reference.docx
 
 本项目采用 [MIT License](LICENSE)。
 
-`reference/diagram.lua` 基于 [pandoc-ext/diagram](https://github.com/pandoc-ext/diagram)，其 MIT 版权声明一并保留在 LICENSE 文件中。
+`reference/diagram.lua` 基于 [pandoc-ext/diagram](https://github.com/pandoc-ext/diagram)，第三方组件的版权声明见 [NOTICE](NOTICE)。

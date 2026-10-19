@@ -1,0 +1,13 @@
+Third-party notices
+
+reference/diagram.lua is derived from pandoc-ext/diagram
+(https://github.com/pandoc-ext/diagram), which is distributed under the
+MIT License. The upstream copyright holders are:
+
+Copyright © 2019-2023 Albert Krewinkel
+Copyright © 2019 Thorsten Sommer
+Copyright © 2018 Florian Schätzig
+Copyright © 2018 John MacFarlane
+
+Their copyright notices are included in the LICENSE file, and the MIT
+License terms in that file apply to those portions as well.
