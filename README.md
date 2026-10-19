@@ -118,3 +118,9 @@ python3 reference/deep-clean-reference.py reference/reference.docx
 - `tools/md_style_audit.py`：排查口语化表述；
 - `tools/mermaid_fit_audit.py`：检查 Mermaid 图的尺寸与有效字号；
 - `tools/mermaid_svg_export.py`：导出可在 Inkscape/LibreOffice 中编辑的 SVG。
+
+## 许可证
+
+本项目采用 [MIT License](LICENSE)。
+
+`reference/diagram.lua` 基于 [pandoc-ext/diagram](https://github.com/pandoc-ext/diagram)，其 MIT 版权声明一并保留在 LICENSE 文件中。
